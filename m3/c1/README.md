@@ -1,0 +1,2 @@
+- Alarm: Alarmas programadas con notificaciones.
+- ListandContent: Content Provider y loaders.
