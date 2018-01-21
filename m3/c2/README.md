@@ -1,0 +1,2 @@
+- GoogleMaps: Ejemplo del API de Google Maps.
+- CameraProject: Ejemplo de uso del intent estándar para tomar fotos.
